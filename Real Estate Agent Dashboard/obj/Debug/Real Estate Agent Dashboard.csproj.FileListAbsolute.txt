@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\bin\Debug\Real Estate Agent Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\bin\Debug\Real Estate Agent Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\bin\Debug\Real Estate Agent Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real Estate Agent Dashboard.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real_Estate_Agent_Dashboard.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real_Estate_Agent_Dashboard.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real Estate Agent Dashboard.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real Estate Agent Dashboard.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real Estate Agent Dashboard.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real Estate Agent Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Real Estate Agent Dashboard\Real Estate Agent Dashboard\obj\Debug\Real Estate Agent Dashboard.pdb
