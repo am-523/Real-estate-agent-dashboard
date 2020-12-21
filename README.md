@@ -4,11 +4,15 @@
 <h3 align="center">
 Real Estate Agent Dashboard</h3>
 
-# Buy Me A Coffee ☕
+##  ☕
+<a href="https://www.buymeacoffee.com/projectam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+## Follow Me 
 <p align="center">
 	<b>
-		<a href="https://www.paypal.me/am523">
-			Paypal Donate
+		<a href="linkedin.com/in/asril-mochammad-215860192">
+			LinkedIn
 		</a>&nbsp;|
 		<a href="https://www.patreon.com/user/creators?u=43122521">
 			Patreon
@@ -30,12 +34,12 @@ Real Estate Agent Dashboard</h3>
   
 
 
-# Tutorial 📸
+## Tutorial 📸
 - <a href="https://youtu.be/wbC96pFDUJ4">
 			Youtube
 		</a> 
 
-# Screenshot
+## Screenshot
 ![Real estate agent dashboard](https://user-images.githubusercontent.com/61135648/102726551-a76d2e00-435a-11eb-9d72-106fd0adefbb.gif)
 
 Design Inspiration by Shekh Al Raihan https://dribbble.com/shots/11180980-Real-Estate-Agent-Dashboard
